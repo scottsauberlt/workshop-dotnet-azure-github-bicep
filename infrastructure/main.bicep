@@ -11,3 +11,4 @@ module app './appservice.bicep' = {
     location: 'centralus'
   }
 }
+
